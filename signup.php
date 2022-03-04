@@ -47,6 +47,5 @@ if(isset($_POST['submit'])) {
 }
 ?>
 
-<a href="index.html">RETURN TO THE MAIN PAGE</a>
 </body>
 </html>
